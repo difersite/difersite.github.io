@@ -1,0 +1,21 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+h1 {
+  text-align: right;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+
+.Container {
+  width: 90%;
+  max-width: 1200px;
+  margin: auto;
+  padding: 40px 0;
+  
+}
